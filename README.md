@@ -10,7 +10,9 @@
          <input type="text" name="" id="txt" value="">
       </div>
       <script type="text/javascript">
-      //创建websocket对象
+      //npm安装websocket：npm install ws
+      //创建虚拟服务器
+      //创建websocket对象
        
       
        txt.onblur=function(){
